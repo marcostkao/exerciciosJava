@@ -28,7 +28,7 @@ public class Program {
         }
 
         System.out.println();
-        System.out.println("Account data:");
+        System.out.println("Conta atual:");
         System.out.println(account);
 
         //Deposito

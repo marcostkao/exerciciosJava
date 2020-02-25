@@ -42,11 +42,11 @@ public class Account {
     }
 
     public String toString(){
-        return "Account "
+        return "Conta "
                 + number
-                + ", Holder: "
+                + ", Titular: "
                 + holder
-                + ", Balance: $ "
+                + ", Saldo Atual: R$ "
                 + String.format("%.2f", balance);
 
     }
